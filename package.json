@@ -1,0 +1,24 @@
+{
+  "name": "build-arduino",
+  "main": "./lib/build-arduino",
+  "version": "0.1.2",
+  "description": "Processing build system for Atom",
+  "keywords": [
+    "build",
+    "compile",
+    "arduino"
+  ],
+  "repository": "https://github.com/brambogaerts/build-arduino",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0"
+  },
+  "providedServices": {
+    "builder": {
+      "description": "Arduino build system for Atom",
+      "versions": {
+        "2.0.0": "provide"
+      }
+    }
+  }
+}
