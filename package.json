@@ -1,7 +1,7 @@
 {
   "name": "build-arduino",
   "main": "./lib/build-arduino",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Arduino build system for Atom",
   "keywords": [
     "build",
